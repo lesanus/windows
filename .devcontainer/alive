@@ -1,0 +1,5 @@
+while true # start an infinite loop
+do
+     echo "keep alive " # print "keep alive" 
+     sleep 300 # wait for 1 second
+done # end the loop
